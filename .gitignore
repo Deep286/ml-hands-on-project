@@ -1,1 +1,4 @@
 venv/
+logs/
+artifacts/
+ml_hands_on_project.egg-info/
